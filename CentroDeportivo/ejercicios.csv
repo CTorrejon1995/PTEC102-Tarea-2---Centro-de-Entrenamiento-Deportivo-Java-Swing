@@ -1,0 +1,11 @@
+codigo,nombre,tipo,atributoExtra,intensidad,tiempo,descripcion,semana
+001,Burpees,Cardiovascular,Sin máquina,Avanzado,10,Realizar una flexión de brazos seguida de un salto vertical de forma continua.,3
+002,Sentadillas con peso,Fuerza,Piernas,Intermedio,15,Flexionar las rodillas manteniendo la espalda recta mientras se sostiene una mancuerna.,2
+003,Trote en cinta,Cardiovascular,Cinta de correr,Básico,20,Correr a ritmo moderado sobre una cinta de entrenamiento.,1
+004,Press de banca,Fuerza,Pecho,Avanzado,12,Levantar una barra desde el pecho hasta extender completamente los brazos.,4
+005,Saltar la cuerda,Cardiovascular,Cuerda de entrenamiento,Intermedio,8,Saltar continuamente utilizando una cuerda de entrenamiento.,2
+006,Peso muerto,Fuerza,Espalda y piernas,Alto rendimiento,18,Levantar una barra desde el suelo manteniendo la espalda recta y controlando el movimiento.,5
+007,Mountain climbers,Cardiovascular,Sin máquina,Avanzado,7,Alternar rápidamente las piernas hacia el pecho en posición de plancha.,3
+008,Dominadas,Fuerza,Espalda y bíceps,Intermedio,10,Elevar el cuerpo utilizando una barra fija hasta superar la altura del mentón.,1
+009,Bicicleta estática,Cardiovascular,Bicicleta estática,Básico,25,Pedalear de manera constante manteniendo un ritmo estable.,6
+010,Plancha abdominal,Fuerza,Abdomen,Básico,5,Mantener el cuerpo recto apoyado sobre antebrazos y puntas de los pies.,2
