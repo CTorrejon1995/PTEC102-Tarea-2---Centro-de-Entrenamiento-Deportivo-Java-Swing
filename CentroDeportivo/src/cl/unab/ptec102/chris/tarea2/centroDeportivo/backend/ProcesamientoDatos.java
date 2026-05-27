@@ -10,7 +10,7 @@ import java.util.Objects;
 public class ProcesamientoDatos {
     public ProcesamientoDatos(ColeccionEjercicio laColeccion) {
         ArrayList<String[]> datos;
-        datos = LecturaArchivo.leerArchivo("centroDeportivo/ejercicios.csv");
+        datos = LecturaArchivo.leerArchivo("ejercicios.csv");
 
         for (String[] fila : datos) {
 
