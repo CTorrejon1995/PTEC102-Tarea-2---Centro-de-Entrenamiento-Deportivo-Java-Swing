@@ -200,12 +200,13 @@ El repositorio incluye:
 
 ---
 
-## 👥 Autores
+## 👥 Autor
 
 Proyecto desarrollado para la asignatura **PTEC102**.
 
-- Cristian Torrejón  
-- [Agregar integrantes si corresponde]  
+- Christopher Torrejón. 21.774.845-3
+- Ingeniería Civil Industrial.
+- Ingeniería Civil Informática.
 
 ---
 
