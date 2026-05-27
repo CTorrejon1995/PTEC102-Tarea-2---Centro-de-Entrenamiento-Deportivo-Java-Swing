@@ -110,7 +110,7 @@ public class Rutina {
         return
                 "------------------------------------------------------------------------" + "\n" +
                 "Cantidad de Ejercicios Cardiovascular: " + cantTipo[0] + "\n" +
-                "Cantidad de Ejercicios Cardiovascular: " + cantTipo[1] + "\n" +
+                "Cantidad de Ejercicios de Fuerza: " + cantTipo[1] + "\n" +
                 "------------------------------------------------------------------------" + "\n" +
                 "Cantidad de Ejercicios Básicos: " + cantNivel[0] + "\n" +
                 "Cantidad de Ejercicios Intermedio: " + cantNivel[1] + "\n" +
